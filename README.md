@@ -5,4 +5,4 @@ MIMIC - III source: https://mimic.physionet.org/
 
 mimic-code source: https://github.com/MIT-LCP/mimic-code
 
-model.py is to be executed on a server pc connected remotely to the android app via firebase.
+model.py is to be executed on a server pc connected remotely to the android app via firebase
